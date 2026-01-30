@@ -1,0 +1,103 @@
+product_id,product_name,category,price,currency
+101,Laptop Pro 15,Electronics,1200,USD
+102,Wireless Headphones,Electronics,150,USD
+103,Office Chair,Furniture,300,USD
+104,Smartphone X,Electronics,900,USD
+105,Coffee Machine,Home Appliances,200,USD
+106,Mechanical Keyboard,Electronics,180,USD
+107,Gaming Mouse,Electronics,90,USD
+108,4K Monitor,Electronics,450,USD
+109,USB-C Hub,Electronics,70,USD
+110,Desk Lamp,Home Appliances,45,USD
+111,Notebook Backpack,Accessories,85,USD
+112,External SSD 1TB,Electronics,220,USD
+113,Tablet Air,Electronics,650,USD
+114,Bluetooth Speaker,Electronics,130,USD
+115,Smartwatch Active,Electronics,250,USD
+116,Ergonomic Desk,Furniture,550,USD
+117,Standing Desk,Furniture,720,USD
+118,Wireless Charger,Electronics,55,USD
+119,Noise Cancelling Headphones,Electronics,320,USD
+120,Office Drawer,Furniture,260,USD
+121,LED TV 55,Electronics,780,USD
+122,Gaming Chair,Furniture,410,USD
+123,Action Camera,Electronics,290,USD
+124,Portable Hard Drive 2TB,Electronics,140,USD
+125,Fitness Tracker,Electronics,120,USD
+126,Smart Light Bulb,Home Appliances,35,USD
+127,Electric Kettle,Home Appliances,95,USD
+128,Air Fryer XL,Home Appliances,190,USD
+129,Robot Vacuum,Home Appliances,450,USD
+130,Espresso Machine,Home Appliances,620,USD
+131,Wireless Earbuds,Electronics,110,USD
+132,Gaming Laptop 17,Electronics,1850,USD
+133,Ultrabook 13,Electronics,1350,USD
+134,Office Monitor 27,Electronics,310,USD
+135,Portable Projector,Electronics,480,USD
+136,Streaming Webcam,Electronics,95,USD
+137,Microphone USB,Electronics,140,USD
+138,Printer Inkjet,Electronics,210,USD
+139,Printer Laser,Electronics,480,USD
+140,Paper Shredder,Office Supplies,160,USD
+141,Desk Organizer,Office Supplies,45,USD
+142,Whiteboard Large,Office Supplies,130,USD
+143,Office Stapler,Office Supplies,22,USD
+144,Document Scanner,Electronics,350,USD
+145,Conference Speakerphone,Electronics,260,USD
+146,Smart Thermostat,Home Appliances,230,USD
+147,Security Camera,Electronics,170,USD
+148,Smart Doorbell,Electronics,210,USD
+149,Electric Scooter,Sports,620,USD
+150,Foldable Treadmill,Sports,890,USD
+151,Yoga Mat,Sports,45,USD
+152,Dumbbell Set,Sports,160,USD
+153,Resistance Bands,Sports,38,USD
+154,Mountain Bike,Sports,1450,USD
+155,Helmet Adult,Sports,85,USD
+156,Tennis Racket,Sports,190,USD
+157,Football Official,Sports,75,USD
+158,Basketball Pro,Sports,95,USD
+159,Running Shoes,Clothing,160,USD
+160,Hoodie Unisex,Clothing,75,USD
+161,Jeans Slim Fit,Clothing,110,USD
+162,Winter Jacket,Clothing,240,USD
+163,Sports Shorts,Clothing,55,USD
+164,Graphic T-Shirt,Clothing,38,USD
+165,Sneakers Classic,Clothing,120,USD
+166,Baseball Cap,Accessories,35,USD
+167,Sunglasses Polarized,Accessories,95,USD
+168,Leather Wallet,Accessories,85,USD
+169,Smartphone Case,Accessories,25,USD
+170,Wireless Power Bank,Electronics,90,USD
+171,HDMI Cable 2m,Electronics,18,USD
+172,USB Flash Drive 128GB,Electronics,32,USD
+173,Router WiFi 6,Electronics,190,USD
+174,Mesh WiFi System,Electronics,420,USD
+175,Gaming Console,Electronics,520,USD
+176,Video Game Controller,Electronics,85,USD
+177,VR Headset,Electronics,490,USD
+178,Smart Home Hub,Electronics,210,USD
+179,Electric Toothbrush,Home Appliances,110,USD
+180,Hair Dryer Pro,Home Appliances,150,USD
+181,Blender High Power,Home Appliances,175,USD
+182,Microwave Oven,Home Appliances,320,USD
+183,Toaster Premium,Home Appliances,95,USD
+184,Refrigerator Large,Home Appliances,1350,USD
+185,Dishwasher,Home Appliances,980,USD
+186,Washing Machine,Home Appliances,1100,USD
+187,Vacuum Cleaner,Home Appliances,260,USD
+188,Iron Steam,Home Appliances,125,USD
+189,Air Purifier,Home Appliances,410,USD
+190,Mattress Queen,Home Appliances,720,USD
+191,Bed Frame King,Furniture,980,USD
+192,Nightstand,Furniture,240,USD
+193,Sofa 3-Seater,Furniture,1250,USD
+194,Dining Table,Furniture,890,USD
+195,Dining Chair Set,Furniture,520,USD
+196,Bookshelf Large,Furniture,460,USD
+197,TV Stand,Furniture,380,USD
+198,Side Table,Furniture,210,USD
+199,Floor Lamp,Home Appliances,160,USD
+200,Area Rug,Home Appliances,340,USD
+201,Smart Scale,Home Appliances,95,USD
+202,Bluetooth Tracker,Electronics,65,USD
