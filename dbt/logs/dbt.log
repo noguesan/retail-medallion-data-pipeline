@@ -1,0 +1,32 @@
+[0m15:05:17.710676 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A18489F230>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A1829BC550>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A185C57C50>]}
+
+
+============================== 15:05:17.715249 | b3b46f26-ee43-4353-a902-c9fd04cfe2d5 ==============================
+[0m15:05:17.715249 [info ] [MainThread]: Running with dbt=1.11.2
+[0m15:05:17.716040 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'use_experimental_parser': 'False', 'cache_selected_only': 'False', 'warn_error': 'None', 'empty': 'None', 'debug': 'False', 'static_parser': 'True', 'log_cache_events': 'False', 'profiles_dir': 'C:\\Users\\SNOGUEIRA\\.dbt', 'log_format': 'default', 'quiet': 'False', 'use_colors': 'True', 'partial_parse': 'True', 'version_check': 'True', 'log_path': 'logs', 'introspect': 'True', 'invocation_command': 'dbt init retail_medallion_gold', 'fail_fast': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'no_print': 'None', 'send_anonymous_usage_stats': 'True', 'indirect_selection': 'eager', 'write_json': 'True', 'target_path': 'None'}
+[0m15:05:17.745766 [debug] [MainThread]: Starter project path: C:\Users\SNOGUEIRA\AppData\Local\Programs\Python\Python313\Lib\site-packages\dbt\include\starter_project
+[0m15:05:17.775522 [info ] [MainThread]: 
+Your new dbt project "retail_medallion_gold" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m15:05:17.776480 [info ] [MainThread]: Setting up your profile.
+[0m15:05:55.016875 [debug] [MainThread]: Spark adapter: Setting pyhive.hive logging to ERROR
+[0m15:05:55.017314 [debug] [MainThread]: Spark adapter: Setting thrift.transport logging to ERROR
+[0m15:05:55.017633 [debug] [MainThread]: Spark adapter: Setting thrift.protocol logging to ERROR
+[0m15:30:20.420258 [info ] [MainThread]: Profile retail_medallion_gold written to C:\Users\SNOGUEIRA\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m15:30:20.515991 [debug] [MainThread]: Command `python -m dbt.cli.main init` succeeded at 15:30:20.513684 after 1502.96 seconds
+[0m15:30:20.528901 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A185C929E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A1A0F2FE30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A1882D3790>]}
+[0m15:30:20.534565 [debug] [MainThread]: Flushing usage events
+[0m15:30:22.997407 [debug] [MainThread]: An error was encountered while trying to flush usage events
