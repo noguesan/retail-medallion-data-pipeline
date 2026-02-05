@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+  - name: silver
+    database: workspace
+    schema: retail_medallion_pipeline_schema
+    tables:
+      - name: silver_customers
+      - name: silver_products
+      - name: silver_orders
+
+models:
+  - name: stg_customers
+    description: "Clientes estandarizados desde Silver"
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+
+  - name: stg_products
+    description: "Productos estandarizados desde Silver"
+    columns:
+      - name: product_id
+        tests:
+          - not_null
+
+  - name: stg_orders
+    description: "Órdenes estandarizadas desde Silver"
+    columns:
+      - name: order_id
+        tests:
+          - not_null

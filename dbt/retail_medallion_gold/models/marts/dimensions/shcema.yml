@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Dimensión de clientes"
+    columns:
+      - name: customer_id
+        description: "Identificador único del cliente"
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_products
+    description: "Dimensión de productos"
+    columns:
+      - name: product_id
+        description: "Identificador único del producto"
+        tests:
+          - not_null
+          - unique
